@@ -25,12 +25,16 @@ body {
 
 .site-title {
     text-align:center;
-    color: darkgreen;
-    
+    color: darkblue;
+
 }
 
 .site-subtitle {
     text-align:center;
-    color: darkgreen;
+    color: darkblue;
 }
 
+.img {
+    width: 126;
+    height: fit-content;
+}
