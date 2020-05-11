@@ -38,3 +38,11 @@ body {
     width: 126;
     height: fit-content;
 }
+
+a {
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
